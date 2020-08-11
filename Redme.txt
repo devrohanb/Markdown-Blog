@@ -1,0 +1,9 @@
+This is a Blogging app with markdwon text feature.
+User can create blogs and post it on screen.
+Technologies used :
+    NodeJS
+    Bootstrap
+    ExpressJS
+    MongoDB
+    HTML + CSS
+    
